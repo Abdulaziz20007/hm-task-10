@@ -1,5 +1,5 @@
 import { useState } from "react";
-import "./App.css";
+import "./ColorPicker.css";
 
 function App() {
   const [selectedColor, setSelectedColor] = useState("#000000");
